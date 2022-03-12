@@ -1,0 +1,61 @@
+html {
+  background-color: rgb(146, 236, 236);
+  text-shadow: 10px;
+}
+h1 {
+  background-color: rgb(115, 255, 0);
+  text-align: center;
+  border: 10px solid rgb(47, 172, 255);
+}
+
+.green {
+  color: rgb(17, 0, 255);
+}
+
+p {
+  text-align: center;
+  padding-right: 10px;
+  font-size: larger;
+  font-weight: bolder;
+  color: rgb(224, 39, 39);
+  text-decoration-line: underline;
+  text-decoration-color: rgb(37, 131, 8);
+}
+
+label {
+  box-align: center;
+}
+
+button[type="button"] {
+  font-weight: bold;
+  border-style: outset;
+}
+#tarik {
+  border-style: outset;
+}
+#allset {
+  font-weight: bold;
+}
+form {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
+
+#hey {
+  color: rgba(16, 56, 236, 0.966);
+  text-decoration-line: underline;
+  text-decoration-color: rgb(131, 8, 8);
+}
+
+#info {
+  background-color: rgb(241, 219, 184);
+  border-style: outset;
+  margin: 100px;
+  background-size: contain;
+  text-decoration-line: none;
+}
+#footer1 {
+  text-align: center;
+  font-weight: bold;
+}
